@@ -1,0 +1,1 @@
+This repo takes you through the process of building a comprehensive e-commerce search and filtering system using React.
