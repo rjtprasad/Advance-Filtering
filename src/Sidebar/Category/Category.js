@@ -1,8 +1,17 @@
+import Input from '../../components/Input'
 import './category.css'
 
 function Category() {
   return (
-    <div>Category</div>
+    <div>
+      <h2 className="sidebar-title">Category</h2>
+
+      <div>
+        <Input/>
+        <Input/>
+        <Input/>
+      </div>
+    </div>
   )
 }
 
